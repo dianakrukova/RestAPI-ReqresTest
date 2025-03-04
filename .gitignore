@@ -34,5 +34,18 @@ build/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
+### Windows ###
+Thumbs.db
+Desktop.ini
+
+###log##
+/log
+.log
+*.log
+
+##allure##
+/.allure
+.allure
+.allure/
+allure-report
+/allure-report
